@@ -1,0 +1,756 @@
+{
+  "courses": [
+    {
+      "name": "CPSC 210",
+      "location": "ESB 1013"
+    }
+  ],
+  "accounts": [
+    {
+      "name": "brian",
+      "weekSchedule": [
+        {
+          "schedule": [
+            {
+              "course": null,
+              "time": 1600
+            },
+            {
+              "course": null,
+              "time": 1730
+            },
+            {
+              "course": null,
+              "time": 900
+            },
+            {
+              "course": null,
+              "time": 1030
+            },
+            {
+              "course": null,
+              "time": 1800
+            },
+            {
+              "course": null,
+              "time": 1930
+            },
+            {
+              "course": null,
+              "time": 1100
+            },
+            {
+              "course": null,
+              "time": 1230
+            },
+            {
+              "course": null,
+              "time": 2000
+            },
+            {
+              "course": null,
+              "time": 1300
+            },
+            {
+              "course": null,
+              "time": 1430
+            },
+            {
+              "course": {
+                "name": "CPSC 210",
+                "location": "ESB 1013"
+              },
+              "time": 1502
+            },
+            {
+              "course": null,
+              "time": 1630
+            },
+            {
+              "course": null,
+              "time": 800
+            },
+            {
+              "course": null,
+              "time": 930
+            },
+            {
+              "course": null,
+              "time": 1700
+            },
+            {
+              "course": null,
+              "time": 1830
+            },
+            {
+              "course": null,
+              "time": 1000
+            },
+            {
+              "course": null,
+              "time": 1130
+            },
+            {
+              "course": null,
+              "time": 1900
+            },
+            {
+              "course": null,
+              "time": 1200
+            },
+            {
+              "course": null,
+              "time": 1330
+            },
+            {
+              "course": null,
+              "time": 1400
+            },
+            {
+              "course": null,
+              "time": 1530
+            },
+            {
+              "course": null,
+              "time": 830
+            }
+          ],
+          "dayName": "Monday"
+        },
+        {
+          "schedule": [
+            {
+              "course": null,
+              "time": 1600
+            },
+            {
+              "course": null,
+              "time": 1730
+            },
+            {
+              "course": null,
+              "time": 900
+            },
+            {
+              "course": null,
+              "time": 1030
+            },
+            {
+              "course": null,
+              "time": 1800
+            },
+            {
+              "course": null,
+              "time": 1930
+            },
+            {
+              "course": null,
+              "time": 1100
+            },
+            {
+              "course": null,
+              "time": 1230
+            },
+            {
+              "course": null,
+              "time": 2000
+            },
+            {
+              "course": null,
+              "time": 1300
+            },
+            {
+              "course": null,
+              "time": 1430
+            },
+            {
+              "course": null,
+              "time": 1500
+            },
+            {
+              "course": null,
+              "time": 1630
+            },
+            {
+              "course": {
+                "name": "CPSC 210",
+                "location": "ESB 1013"
+              },
+              "time": 801
+            },
+            {
+              "course": null,
+              "time": 930
+            },
+            {
+              "course": null,
+              "time": 1700
+            },
+            {
+              "course": null,
+              "time": 1830
+            },
+            {
+              "course": null,
+              "time": 1000
+            },
+            {
+              "course": null,
+              "time": 1130
+            },
+            {
+              "course": null,
+              "time": 1900
+            },
+            {
+              "course": null,
+              "time": 1200
+            },
+            {
+              "course": null,
+              "time": 1330
+            },
+            {
+              "course": null,
+              "time": 1400
+            },
+            {
+              "course": null,
+              "time": 1530
+            },
+            {
+              "course": null,
+              "time": 830
+            }
+          ],
+          "dayName": "Tuesday"
+        },
+        {
+          "schedule": [
+            {
+              "course": null,
+              "time": 1600
+            },
+            {
+              "course": null,
+              "time": 1730
+            },
+            {
+              "course": null,
+              "time": 900
+            },
+            {
+              "course": null,
+              "time": 1030
+            },
+            {
+              "course": null,
+              "time": 1800
+            },
+            {
+              "course": null,
+              "time": 1930
+            },
+            {
+              "course": null,
+              "time": 1100
+            },
+            {
+              "course": null,
+              "time": 1230
+            },
+            {
+              "course": null,
+              "time": 2000
+            },
+            {
+              "course": null,
+              "time": 1300
+            },
+            {
+              "course": null,
+              "time": 1430
+            },
+            {
+              "course": null,
+              "time": 1500
+            },
+            {
+              "course": null,
+              "time": 1630
+            },
+            {
+              "course": null,
+              "time": 800
+            },
+            {
+              "course": null,
+              "time": 930
+            },
+            {
+              "course": null,
+              "time": 1700
+            },
+            {
+              "course": null,
+              "time": 1830
+            },
+            {
+              "course": null,
+              "time": 1000
+            },
+            {
+              "course": null,
+              "time": 1130
+            },
+            {
+              "course": null,
+              "time": 1900
+            },
+            {
+              "course": null,
+              "time": 1200
+            },
+            {
+              "course": null,
+              "time": 1330
+            },
+            {
+              "course": null,
+              "time": 1400
+            },
+            {
+              "course": null,
+              "time": 1530
+            },
+            {
+              "course": null,
+              "time": 830
+            }
+          ],
+          "dayName": "Wednesday"
+        },
+        {
+          "schedule": [
+            {
+              "course": null,
+              "time": 1600
+            },
+            {
+              "course": null,
+              "time": 1730
+            },
+            {
+              "course": null,
+              "time": 900
+            },
+            {
+              "course": null,
+              "time": 1030
+            },
+            {
+              "course": null,
+              "time": 1800
+            },
+            {
+              "course": null,
+              "time": 1930
+            },
+            {
+              "course": null,
+              "time": 1100
+            },
+            {
+              "course": null,
+              "time": 1230
+            },
+            {
+              "course": null,
+              "time": 2000
+            },
+            {
+              "course": null,
+              "time": 1300
+            },
+            {
+              "course": null,
+              "time": 1430
+            },
+            {
+              "course": null,
+              "time": 1500
+            },
+            {
+              "course": null,
+              "time": 1630
+            },
+            {
+              "course": null,
+              "time": 800
+            },
+            {
+              "course": null,
+              "time": 930
+            },
+            {
+              "course": null,
+              "time": 1700
+            },
+            {
+              "course": null,
+              "time": 1830
+            },
+            {
+              "course": null,
+              "time": 1000
+            },
+            {
+              "course": null,
+              "time": 1130
+            },
+            {
+              "course": null,
+              "time": 1900
+            },
+            {
+              "course": null,
+              "time": 1200
+            },
+            {
+              "course": null,
+              "time": 1330
+            },
+            {
+              "course": null,
+              "time": 1400
+            },
+            {
+              "course": null,
+              "time": 1530
+            },
+            {
+              "course": null,
+              "time": 830
+            }
+          ],
+          "dayName": "Thursday"
+        },
+        {
+          "schedule": [
+            {
+              "course": null,
+              "time": 1600
+            },
+            {
+              "course": null,
+              "time": 1730
+            },
+            {
+              "course": null,
+              "time": 900
+            },
+            {
+              "course": null,
+              "time": 1030
+            },
+            {
+              "course": null,
+              "time": 1800
+            },
+            {
+              "course": null,
+              "time": 1930
+            },
+            {
+              "course": null,
+              "time": 1100
+            },
+            {
+              "course": null,
+              "time": 1230
+            },
+            {
+              "course": null,
+              "time": 2000
+            },
+            {
+              "course": null,
+              "time": 1300
+            },
+            {
+              "course": null,
+              "time": 1430
+            },
+            {
+              "course": null,
+              "time": 1500
+            },
+            {
+              "course": null,
+              "time": 1630
+            },
+            {
+              "course": null,
+              "time": 800
+            },
+            {
+              "course": null,
+              "time": 930
+            },
+            {
+              "course": null,
+              "time": 1700
+            },
+            {
+              "course": null,
+              "time": 1830
+            },
+            {
+              "course": null,
+              "time": 1000
+            },
+            {
+              "course": null,
+              "time": 1130
+            },
+            {
+              "course": null,
+              "time": 1900
+            },
+            {
+              "course": null,
+              "time": 1200
+            },
+            {
+              "course": null,
+              "time": 1330
+            },
+            {
+              "course": null,
+              "time": 1400
+            },
+            {
+              "course": null,
+              "time": 1530
+            },
+            {
+              "course": null,
+              "time": 830
+            }
+          ],
+          "dayName": "Friday"
+        },
+        {
+          "schedule": [
+            {
+              "course": null,
+              "time": 1600
+            },
+            {
+              "course": null,
+              "time": 1730
+            },
+            {
+              "course": null,
+              "time": 900
+            },
+            {
+              "course": null,
+              "time": 1030
+            },
+            {
+              "course": null,
+              "time": 1800
+            },
+            {
+              "course": null,
+              "time": 1930
+            },
+            {
+              "course": null,
+              "time": 1100
+            },
+            {
+              "course": null,
+              "time": 1230
+            },
+            {
+              "course": null,
+              "time": 2000
+            },
+            {
+              "course": null,
+              "time": 1300
+            },
+            {
+              "course": null,
+              "time": 1430
+            },
+            {
+              "course": null,
+              "time": 1500
+            },
+            {
+              "course": null,
+              "time": 1630
+            },
+            {
+              "course": null,
+              "time": 800
+            },
+            {
+              "course": null,
+              "time": 930
+            },
+            {
+              "course": null,
+              "time": 1700
+            },
+            {
+              "course": null,
+              "time": 1830
+            },
+            {
+              "course": null,
+              "time": 1000
+            },
+            {
+              "course": null,
+              "time": 1130
+            },
+            {
+              "course": null,
+              "time": 1900
+            },
+            {
+              "course": null,
+              "time": 1200
+            },
+            {
+              "course": null,
+              "time": 1330
+            },
+            {
+              "course": null,
+              "time": 1400
+            },
+            {
+              "course": null,
+              "time": 1530
+            },
+            {
+              "course": null,
+              "time": 830
+            }
+          ],
+          "dayName": "Saturday"
+        },
+        {
+          "schedule": [
+            {
+              "course": null,
+              "time": 1600
+            },
+            {
+              "course": null,
+              "time": 1730
+            },
+            {
+              "course": null,
+              "time": 900
+            },
+            {
+              "course": null,
+              "time": 1030
+            },
+            {
+              "course": null,
+              "time": 1800
+            },
+            {
+              "course": null,
+              "time": 1930
+            },
+            {
+              "course": null,
+              "time": 1100
+            },
+            {
+              "course": null,
+              "time": 1230
+            },
+            {
+              "course": null,
+              "time": 2000
+            },
+            {
+              "course": null,
+              "time": 1300
+            },
+            {
+              "course": null,
+              "time": 1430
+            },
+            {
+              "course": null,
+              "time": 1500
+            },
+            {
+              "course": null,
+              "time": 1630
+            },
+            {
+              "course": null,
+              "time": 800
+            },
+            {
+              "course": null,
+              "time": 930
+            },
+            {
+              "course": null,
+              "time": 1700
+            },
+            {
+              "course": null,
+              "time": 1830
+            },
+            {
+              "course": null,
+              "time": 1000
+            },
+            {
+              "course": null,
+              "time": 1130
+            },
+            {
+              "course": null,
+              "time": 1900
+            },
+            {
+              "course": null,
+              "time": 1200
+            },
+            {
+              "course": null,
+              "time": 1330
+            },
+            {
+              "course": null,
+              "time": 1400
+            },
+            {
+              "course": null,
+              "time": 1530
+            },
+            {
+              "course": null,
+              "time": 830
+            }
+          ],
+          "dayName": "Sunday"
+        }
+      ]
+    }
+  ]
+}
